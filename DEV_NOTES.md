@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Resolved deprecation warnings
 - Improved log message formatting
+
+## 2026-06-13
+- Fixed off-by-one error in loop
